@@ -4,7 +4,7 @@
 
 * A brief description a bout myself
 
-My name is Alireza. I am a graduate of architecture. As I have a dream to be a different architecture, I have decided to study construction management for my Ph.D. that will help me to extend my knowledge on other related areas to architecture such as energy and technology.
+My name is Alireza. I am a graduate of architecture. As I have a dream to be a different architect, I have decided to study construction management for my Ph.D. that will help me to extend my knowledge on other related areas to architecture such as energy and technology.
 
 * What did I do?
 
